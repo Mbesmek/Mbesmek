@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Melih
 - 👀 I’m working as a iOS Developer
-- 🌱 I’m currently learning Swift and SwiftUI
 - 📫 How to reach me m.besmek@gmail.com
 
 <!---
